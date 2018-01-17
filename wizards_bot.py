@@ -6,7 +6,7 @@ import time
 import datetime
 import requests
 
-SUBREDDIT = 'cocopufffamine'
+SUBREDDIT = 'washingtonwizards'
 
 
 # Logging in using credentials from praw.ini
